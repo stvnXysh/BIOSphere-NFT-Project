@@ -9,7 +9,7 @@
   },  
   "dependencies": {},  
   "devDependencies": {  
-    "electron": "^37.2.0",  
+    "electron": "^41.1.1",  
     "electron-builder": "^24.0.0"  
   }  
 }  
